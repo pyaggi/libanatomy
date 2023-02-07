@@ -58,7 +58,6 @@ void MainWindow::loadSettings()
         m_recentFiles.push_back(s.value("file").toString());
         m_recentTypes.push_back(s.value("type").toInt());
     }
-
 }
 void MainWindow::saveSettings()
 {
@@ -71,6 +70,7 @@ void MainWindow::saveSettings()
         s.setValue("file",m_recentFiles[c]);
         s.setValue("type",m_recentTypes[c]);
     }
+    s.sync();
 }
 void MainWindow::addRecent()
 {
