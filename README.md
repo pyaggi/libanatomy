@@ -21,6 +21,10 @@ AnaTranslator
 AnaTranslator is an application for easy translation of the files included in the content directory. Any contributor willing to provide translations to the project 
 is encouraged to use it.
 
+AnaViewer
+---------
+AnaViewer is an application oriented on exploring the contents in a way that can assist on the contents creator's work flow.
+
 AnaGenerator
 ------------
 AnaGenerator is the main tool used to generate the **resources**. It will be used by the project administrator periodically to keep the resources in sync with the contributed content. This application generates two different sets of files, one set intended for **data-resources** and one set for **dev-resources**. Any content produced by this application or any fork of it will release the output files of the **data-resources** set under the 'Creative Commons Attribution-NoDerivatives 4.0 International license' and the output files of the **dev-resources** set under the 'LGPL v3.0 license'.
@@ -29,10 +33,6 @@ TaMixer
 -------
 TA mixer is an application oriented on matching the terms from the TA1 and TA2 sets, it produces an output to be included in the contents for generating the libanatomy's terms file.
 
-
-AnaViewer
----------
-AnaViewer is an application oriented on exploring the contents in a way that can assist on the contents creator's work flow.
 
 
 
