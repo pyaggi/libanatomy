@@ -22,20 +22,14 @@ void TrList::act(class QListWidgetItem*i)
 }
 QIcon TrList::icon(TrStatus st)
 {
-    switch (st)
-    {
-    case TrStatus::NewTr:
-        return QIcon(":/icons/tr_new.svg");
-    case TrStatus::AutoTr:
-        return QIcon(":/icons/tr_auto.svg");
-    case TrStatus::WorkInProgress:
-        return QIcon(":/icons/tr_work.svg");
-    case TrStatus::Finished:
-        return QIcon(":/icons/tr_fin.svg");
-    case TrStatus::Obsolete:
-        return QIcon(":/icons/tr_obs.svg");
-    }
-    return {};
+    static QIcon list[]={
+        QIcon(":/icons/tr_new.svg"),
+        QIcon(":/icons/tr_auto.svg"),
+        QIcon(":/icons/tr_work.svg"),
+        QIcon(":/icons/tr_fin.svg"),
+        QIcon(":/icons/tr_obs.svg"),
+        };
+    return list[static_cast<int>(st)];
 }
 void TrList::addWord(TrStatus st,const QString &w)
 {

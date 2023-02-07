@@ -26,10 +26,6 @@ set(PROJECT_SOURCES
         anatrfile.h anatrfile.cpp
         quilltrfile.h quilltrfile.cpp
         trauto.h trauto.cpp
-        ../../dev-resources/qt/anqcsv.h
-        ../../dev-resources/qt/anqcsv.cpp
-        ../../dev-resources/qt/anqaboutdialog.h
-        ../../dev-resources/qt/anqaboutdialog.cpp
 
 )
 qt5_add_resources(PROJECT_SOURCES icons.qrc)
@@ -57,7 +53,7 @@ else()
     endif()
 endif()
 
-target_link_libraries(AnaTranslator PRIVATE Qt${QT_VERSION_MAJOR}::Widgets)
+target_link_libraries(AnaTranslator PRIVATE Qt${QT_VERSION_MAJOR}::Widgets  anatomyqt anatomycpp)
 target_include_directories(AnaTranslator PUBLIC ../../dev-resources/qt ../../dev-resources/cpp)
 
 set_target_properties(AnaTranslator PROPERTIES

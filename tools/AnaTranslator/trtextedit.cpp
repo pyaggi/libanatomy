@@ -10,7 +10,7 @@ bool TrTextEdit::event(QEvent* ev)
     if (ev->type() == QEvent::KeyPress)
     {
         auto k=static_cast<QKeyEvent*>(ev);
-        if (k->key()==Qt::Key::Key_Return |k->key()==Qt::Key::Key_Enter)
+        if (k->key()==Qt::Key::Key_Return ||k->key()==Qt::Key::Key_Enter)
         {
             if (k->modifiers() & Qt::KeyboardModifier::ControlModifier)
             {
