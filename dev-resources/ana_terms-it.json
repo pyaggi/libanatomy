@@ -3,2264 +3,2264 @@
     "terms": [
         {
             "id": 100014,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Termini generali"
         },
         {
             "id": 100023,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Verticale"
         },
         {
             "id": 100038,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Orizzontale"
         },
         {
             "id": 100046,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Mediano"
         },
         {
             "id": 100051,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Coronale"
         },
         {
             "id": 100067,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "sagittale"
         },
         {
             "id": 100072,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Giusto"
         },
         {
             "id": 100080,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Sinistra"
         },
         {
             "id": 100095,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Intermedio"
         },
         {
             "id": 100102,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Mediale"
         },
         {
             "id": 100115,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Laterale"
         },
         {
             "id": 100128,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Anteriore"
         },
         {
             "id": 100131,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Posteriore"
         },
         {
             "id": 100144,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Ventrale"
         },
         {
             "id": 100153,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Dorsale"
         },
         {
             "id": 100166,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Frontale"
         },
         {
             "id": 100177,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Occipitale"
         },
         {
             "id": 100189,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Superiore"
         },
         {
             "id": 100190,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Inferiore"
         },
         {
             "id": 100206,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Cranio"
         },
         {
             "id": 100211,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Caudale"
         },
         {
             "id": 100222,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Rostrale"
         },
         {
             "id": 100233,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Apicale"
         },
         {
             "id": 100240,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Basale"
         },
         {
             "id": 100254,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Mezzo"
         },
         {
             "id": 100265,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Trasversale"
         },
         {
             "id": 100279,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Longitudinale"
         },
         {
             "id": 100287,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Assiale"
         },
         {
             "id": 100298,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Esterno"
         },
         {
             "id": 100303,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Interno"
         },
         {
             "id": 100316,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Luminale"
         },
         {
             "id": 100327,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Superficiale"
         },
         {
             "id": 100334,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Profondo"
         },
         {
             "id": 100342,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Prossimale"
         },
         {
             "id": 100350,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "distale"
         },
         {
             "id": 100369,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Centrale"
         },
         {
             "id": 100375,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Periferica"
         },
         {
             "id": 100388,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Radiale"
         },
         {
             "id": 100391,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Ulnare"
         },
         {
             "id": 100401,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Perone"
         },
         {
             "id": 100417,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Tibiale"
         },
         {
             "id": 100425,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Palmare"
         },
         {
             "id": 100430,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Plantare"
         },
         {
             "id": 100449,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Flessore"
         },
         {
             "id": 100458,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Estensore"
         },
         {
             "id": 100463,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Piani di riferimento"
         },
         {
             "id": 100474,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Piani longitudinali"
         },
         {
             "id": 100482,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Piani coronali"
         },
         {
             "id": 100496,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Piani sagittali"
         },
         {
             "id": 100505,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Piano mediano"
         },
         {
             "id": 100518,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Piano paramediano"
         },
         {
             "id": 100526,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Piani trasversali"
         },
         {
             "id": 100539,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Piano transpilorico"
         },
         {
             "id": 100547,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Piano sottocostale"
         },
         {
             "id": 100552,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Piano transombelicale"
         },
         {
             "id": 100560,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Piano sopracristallo"
         },
         {
             "id": 100571,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Piano intertubercolare"
         },
         {
             "id": 100583,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Piano interspinoso"
         },
         {
             "id": 100594,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Linee di riferimento"
         },
         {
             "id": 100604,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Linea mediana anteriore"
         },
         {
             "id": 100612,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Linea sternale"
         },
         {
             "id": 100620,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Linea parasternale"
         },
         {
             "id": 100636,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Linea medioclavicolare"
         },
         {
             "id": 100648,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Linea mammillare"
         },
         {
             "id": 100657,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Linea ascellare anteriore"
         },
         {
             "id": 100661,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Linea medioascellare"
         },
         {
             "id": 100673,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Linea ascellare posteriore"
         },
         {
             "id": 100685,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Linea scapolare"
         },
         {
             "id": 100699,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Linea paravertebrale"
         },
         {
             "id": 100700,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Linea mediana posteriore"
         },
         {
             "id": 100713,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Posizioni del corpo umano"
         },
         {
             "id": 100721,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Posizione anatomica"
         },
         {
             "id": 100737,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Posizione anatomica comparata"
         },
         {
             "id": 100745,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Posizione prona"
         },
         {
             "id": 100759,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Posizione supina"
         },
         {
             "id": 100768,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Movimenti"
         },
         {
             "id": 100776,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Rapimento"
         },
         {
             "id": 100784,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Adduzione"
         },
         {
             "id": 100792,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Rotazione laterale"
         },
         {
             "id": 100807,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Rotazione mediale"
         },
         {
             "id": 100810,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Circonduzione"
         },
         {
             "id": 100829,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Flessione"
         },
         {
             "id": 100832,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Estensione"
         },
         {
             "id": 100841,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Pronazione"
         },
         {
             "id": 100855,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Supinazione"
         },
         {
             "id": 100864,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Opposizione"
         },
         {
             "id": 100878,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Riposizionare"
         },
         {
             "id": 100886,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Flessione plantare"
         },
         {
             "id": 100893,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Dorsiflessione"
         },
         {
             "id": 100908,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Elevazione"
         },
         {
             "id": 100919,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Depressione"
         },
         {
             "id": 100924,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Eversione"
         },
         {
             "id": 100935,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Inversione"
         },
         {
             "id": 100943,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Protrazione"
         },
         {
             "id": 100956,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Retrazione"
         },
         {
             "id": 100962,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Corpo umano"
         },
         {
             "id": 100970,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Parti del corpo umano"
         },
         {
             "id": 100981,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Testa"
         },
         {
             "id": 100997,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Parte neurocraniale della testa"
         },
         {
             "id": 101000,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Cavità cranica"
         },
         {
             "id": 101013,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Fronte"
         },
         {
             "id": 101021,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Occipite"
         },
         {
             "id": 101037,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Tempio"
         },
         {
             "id": 101045,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Orecchio"
         },
         {
             "id": 101059,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Lobulo del padiglione auricolare"
         },
         {
             "id": 101068,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Elica"
         },
         {
             "id": 101076,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Crus di elica"
         },
         {
             "id": 101084,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Antielica"
         },
         {
             "id": 101092,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Crura dell'antielica"
         },
         {
             "id": 101101,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Antitrago"
         },
         {
             "id": 101117,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Trago"
         },
         {
             "id": 101125,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Viso"
         },
         {
             "id": 101130,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Occhio"
         },
         {
             "id": 101149,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Palpebra superiore"
         },
         {
             "id": 101158,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Palpebra inferiore"
         },
         {
             "id": 101163,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Guancia"
         },
         {
             "id": 101174,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Naso esterno"
         },
         {
             "id": 101182,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Ala del naso"
         },
         {
             "id": 101196,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Bocca"
         },
         {
             "id": 101207,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Labbro superiore"
         },
         {
             "id": 101210,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Labbro inferiore"
         },
         {
             "id": 101229,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Mento"
         },
         {
             "id": 101232,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Collo"
         },
         {
             "id": 101241,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Tronco"
         },
         {
             "id": 101255,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Torace"
         },
         {
             "id": 101264,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Cavità toracica"
         },
         {
             "id": 101278,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Addome"
         },
         {
             "id": 101286,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Cavità addominale"
         },
         {
             "id": 101293,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Bacino"
         },
         {
             "id": 101308,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Cavità pelvica"
         },
         {
             "id": 101319,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Perineo"
         },
         {
             "id": 101324,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Tronco anteriore"
         },
         {
             "id": 101335,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Parete toracica anterolaterale"
         },
         {
             "id": 101343,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Parete addominale anterolaterale"
         },
         {
             "id": 101356,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Indietro"
         },
         {
             "id": 101362,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Parte posteriore del torace"
         },
         {
             "id": 101370,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Parte posteriore dell'addome"
         },
         {
             "id": 101381,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Arto superiore"
         },
         {
             "id": 101397,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Spalla"
         },
         {
             "id": 101403,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Ascella"
         },
         {
             "id": 101416,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Piega ascellare anteriore"
         },
         {
             "id": 101427,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Piega ascellare posteriore"
         },
         {
             "id": 101434,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Parte libera dell'arto superiore"
         },
         {
             "id": 101442,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Braccio"
         },
         {
             "id": 101450,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Gomito"
         },
         {
             "id": 101469,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Avambraccio"
         },
         {
             "id": 101475,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Polso"
         },
         {
             "id": 101488,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Mano"
         },
         {
             "id": 101491,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Metacarpo"
         },
         {
             "id": 101502,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Cifre della mano"
         },
         {
             "id": 101515,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Pollice"
         },
         {
             "id": 101528,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Indice"
         },
         {
             "id": 101531,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Dito medio"
         },
         {
             "id": 101544,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Anulare"
         },
         {
             "id": 101553,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Mignolo"
         },
         {
             "id": 101566,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Arto inferiore"
         },
         {
             "id": 101577,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Natica"
         },
         {
             "id": 101589,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Anca"
         },
         {
             "id": 101590,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Parte libera dell'arto inferiore"
         },
         {
             "id": 101609,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Coscia"
         },
         {
             "id": 101614,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Ginocchio"
         },
         {
             "id": 101623,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Parte posteriore del ginocchio"
         },
         {
             "id": 101638,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Gamba"
         },
         {
             "id": 101646,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Vitello"
         },
         {
             "id": 101651,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Caviglia"
         },
         {
             "id": 101667,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Piede"
         },
         {
             "id": 101672,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Tacco"
         },
         {
             "id": 101680,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Mesopiede"
         },
         {
             "id": 101695,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Metatarso"
         },
         {
             "id": 101705,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Cifre del piede"
         },
         {
             "id": 101718,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Alluce"
         },
         {
             "id": 101726,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Secondo dito"
         },
         {
             "id": 101739,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Terzo dito"
         },
         {
             "id": 101747,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Quarto dito"
         },
         {
             "id": 101752,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Mignolo"
         },
         {
             "id": 101760,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regioni del corpo umano"
         },
         {
             "id": 101771,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regioni della testa"
         },
         {
             "id": 101783,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regioni dell'epicranio"
         },
         {
             "id": 101794,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Vertice"
         },
         {
             "id": 101806,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione frontale"
         },
         {
             "id": 101811,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Sopracciglio"
         },
         {
             "id": 101822,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione parietale"
         },
         {
             "id": 101833,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione occipitale"
         },
         {
             "id": 101840,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione temporale"
         },
         {
             "id": 101854,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione mastoidea"
         },
         {
             "id": 101865,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione auricolare"
         },
         {
             "id": 101879,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Fossa triangolare"
         },
         {
             "id": 101887,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Scafa"
         },
         {
             "id": 101898,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Conca del padiglione auricolare"
         },
         {
             "id": 101904,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Cymba conca"
         },
         {
             "id": 101912,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Cavità di concha"
         },
         {
             "id": 101920,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Tacca anteriore del padiglione auricolare"
         },
         {
             "id": 101936,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Incisione intertragica"
         },
         {
             "id": 101948,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Tubercolo auricolare"
         },
         {
             "id": 101957,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Apice del padiglione auricolare"
         },
         {
             "id": 101961,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Solco auricolare posteriore"
         },
         {
             "id": 101973,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Tubercolo sopratragico"
         },
         {
             "id": 101985,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Fossa antielica"
         },
         {
             "id": 101999,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Eminentia conchae"
         },
         {
             "id": 102004,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Eminentia scafae"
         },
         {
             "id": 102012,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Eminentia fossae triangularis"
         },
         {
             "id": 102020,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regioni del viso"
         },
         {
             "id": 102036,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione orbitale"
         },
         {
             "id": 102048,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Solco soprapalpebrale"
         },
         {
             "id": 102057,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Fessura palpebrale"
         },
         {
             "id": 102061,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Commessura palpebrale laterale"
         },
         {
             "id": 102073,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Commessura palpebrale mediale"
         },
         {
             "id": 102085,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Angolo laterale dell'occhio"
         },
         {
             "id": 102099,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Angolo mediale dell'occhio"
         },
         {
             "id": 102103,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Solco infrapalpebrale"
         },
         {
             "id": 102116,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Piega palpebronasale"
         },
         {
             "id": 102127,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione infraorbitaria"
         },
         {
             "id": 102134,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione buccale"
         },
         {
             "id": 102142,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione parotideomasseterica"
         },
         {
             "id": 102150,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione zigomatica"
         },
         {
             "id": 102169,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione nasale"
         },
         {
             "id": 102175,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Radice del naso"
         },
         {
             "id": 102188,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Dorso del naso"
         },
         {
             "id": 102191,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Apice del naso"
         },
         {
             "id": 102209,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Solco naso labiale"
         },
         {
             "id": 102214,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione orale"
         },
         {
             "id": 102223,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Philtrum"
         },
         {
             "id": 102238,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Tubercolo del labbro superiore"
         },
         {
             "id": 102246,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Commessura labiale"
         },
         {
             "id": 102251,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Angolo della bocca"
         },
         {
             "id": 102267,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Solco mentolabiale"
         },
         {
             "id": 102272,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione mentale"
         },
         {
             "id": 102280,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regioni del collo"
         },
         {
             "id": 102295,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione anteriore del collo"
         },
         {
             "id": 102307,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Triangolo anteriore del collo"
         },
         {
             "id": 102310,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione sopraioidea"
         },
         {
             "id": 102329,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Triangolo sottomandibolare"
         },
         {
             "id": 102332,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Triangolo sottomentoniero"
         },
         {
             "id": 102341,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione infraioidea"
         },
         {
             "id": 102355,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Triangolo carotideo"
         },
         {
             "id": 102364,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Triangolo muscolare"
         },
         {
             "id": 102378,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione sternocleidomastoidea"
         },
         {
             "id": 102386,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Fossa sopraclavicolare minore"
         },
         {
             "id": 102393,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione laterale del collo"
         },
         {
             "id": 102406,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Fossa sopraclavicolare maggiore"
         },
         {
             "id": 102411,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Triangolo omoclavicolare"
         },
         {
             "id": 102422,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Triangolo occipitale"
         },
         {
             "id": 102433,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione posteriore del collo"
         },
         {
             "id": 102440,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regioni del torace"
         },
         {
             "id": 102454,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione anteriore del torace"
         },
         {
             "id": 102465,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Precordio"
         },
         {
             "id": 102479,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione presternale"
         },
         {
             "id": 102487,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Fossa sottoclavicolare"
         },
         {
             "id": 102498,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Triangolo deltopettorale"
         },
         {
             "id": 102501,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Solco deltopettorale"
         },
         {
             "id": 102517,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione pettorale"
         },
         {
             "id": 102525,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione mammaria"
         },
         {
             "id": 102530,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione inframammaria"
         },
         {
             "id": 102549,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione laterale del torace"
         },
         {
             "id": 102558,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regioni dell'addome"
         },
         {
             "id": 102563,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione ipocondriaca"
         },
         {
             "id": 102574,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione epigastrica"
         },
         {
             "id": 102582,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Fossa epigastrica"
         },
         {
             "id": 102596,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione laterale dell'addome"
         },
         {
             "id": 102605,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione ombelicale"
         },
         {
             "id": 102618,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Ombelico"
         },
         {
             "id": 102626,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione inguinale"
         },
         {
             "id": 102639,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione ipogastrica"
         },
         {
             "id": 102647,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regioni del dorso"
         },
         {
             "id": 102652,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione vertebrale"
         },
         {
             "id": 102660,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione scapolare"
         },
         {
             "id": 102671,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Triangolo dell'auscultazione"
         },
         {
             "id": 102683,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione infrascapolare"
         },
         {
             "id": 102694,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione lombare"
         },
         {
             "id": 102708,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Triangolo lombare"
         },
         {
             "id": 102719,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Triangolo lombare superiore"
         },
         {
             "id": 102724,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione sacrale"
         },
         {
             "id": 102735,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Fossetta sacroiliaca"
         },
         {
             "id": 102743,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione coccigea"
         },
         {
             "id": 102756,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Foveola coccigea"
         },
         {
             "id": 102762,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regioni del perineo"
         },
         {
             "id": 102770,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione anale"
         },
         {
             "id": 102781,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Triangolo anale"
         },
         {
             "id": 102797,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione urogenitale"
         },
         {
             "id": 102802,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regioni dell'arto superiore"
         },
         {
             "id": 102815,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione ascellare"
         },
         {
             "id": 102828,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Fossa ascellare"
         },
         {
             "id": 102831,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione deltoide"
         },
         {
             "id": 102844,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione brachiale"
         },
         {
             "id": 102853,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione anteriore del braccio"
         },
         {
             "id": 102866,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Solco bicipitale laterale"
         },
         {
             "id": 102877,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Solco bicipitale mediale"
         },
         {
             "id": 102889,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione posteriore del braccio"
         },
         {
             "id": 102890,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione cubitale"
         },
         {
             "id": 102900,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione anteriore del gomito"
         },
         {
             "id": 102913,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Fossa cubitale"
         },
         {
             "id": 102921,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione posteriore del gomito"
         },
         {
             "id": 102937,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione antibrachiale"
         },
         {
             "id": 102945,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione anteriore dell'avambraccio"
         },
         {
             "id": 102959,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione posteriore dell'avambraccio"
         },
         {
             "id": 102968,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Bordo laterale dell'avambraccio"
         },
         {
             "id": 102976,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Bordo mediale dell'avambraccio"
         },
         {
             "id": 102984,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione carpale"
         },
         {
             "id": 102992,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione anteriore del polso"
         },
         {
             "id": 103006,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione posteriore del polso"
         },
         {
             "id": 103011,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Foveola radiale"
         },
         {
             "id": 103022,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regioni della mano"
         },
         {
             "id": 103033,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione metacarpale"
         },
         {
             "id": 103040,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Dorso della mano"
         },
         {
             "id": 103054,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Palma"
         },
         {
             "id": 103065,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Eminenza tenare"
         },
         {
             "id": 103079,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Eminenza ipotenar"
         },
         {
             "id": 103087,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regioni delle dita della mano"
         },
         {
             "id": 103098,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Superfici palmari delle dita della mano"
         },
         {
             "id": 103104,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Superfici dorsali delle dita della mano"
         },
         {
             "id": 103112,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Spazi interdigitali della mano"
         },
         {
             "id": 103120,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regioni dell'arto inferiore"
         },
         {
             "id": 103136,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione glutea"
         },
         {
             "id": 103148,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Schisi interglutea"
         },
         {
             "id": 103157,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Piega glutea"
         },
         {
             "id": 103161,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione dell'anca"
         },
         {
             "id": 103173,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione femorale"
         },
         {
             "id": 103185,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione anteriore della coscia"
         },
         {
             "id": 103199,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Triangolo femorale"
         },
         {
             "id": 103200,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione posteriore della coscia"
         },
         {
             "id": 103213,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione del ginocchio"
         },
         {
             "id": 103221,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione anteriore del ginocchio"
         },
         {
             "id": 103237,
-            "st": "N",
+            "st": "A",
             "sy": [
             ],
-            "tr": ""
+            "tr": "Regione posteriore del ginocchio"
         },
         {
             "id": 103245,

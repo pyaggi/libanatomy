@@ -97,7 +97,7 @@ void MainWindow::configure()
     {
         auto tre=new TransEditor;
         tre->setup(e->terms(),v,
-                   m_projDir+"/contents/ana_terms-"+QString::fromStdString(v.language())+".csv");
+                   m_projDir+"/content/ana_terms-"+QString::fromStdString(v.language())+".csv");
         tw->addTab(tre,QString::fromStdString(v.language()));
     }
     setCentralWidget(tw);

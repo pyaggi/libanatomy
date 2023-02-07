@@ -48,7 +48,8 @@ void TransEditor::setup(const class AnaTermTree &terms ,const class AnaTermStrin
         for (auto &r:csvParser.table())
         {
             auto st=Ana::trStatusFromCode(r[cols[0]].toStdString());
-            auto id=AnaTermId::fromInteger(r[cols[1]].toInt());
+            AnaTermId id;
+            id.setIdValue(r[cols[1]].toInt());
             auto term=r[cols[5]].trimmed();
             auto synonyms=r[cols[6]].split(";");
             for (auto &s:synonyms)
