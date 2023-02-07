@@ -16,6 +16,10 @@ Directory Structure
 
 **tools**: This directory contains applications and scripts usable for the production and the generation of content. The content here is shared under the 'GPL v3.0 license'.
 
+AnaTranslator
+-------------
+AnaTranslator is an application for easy translation of the files included in the content directory. Any contributor willing to provide translations to the project 
+is encouraged to use it.
 
 AnaGenerator
 ------------
