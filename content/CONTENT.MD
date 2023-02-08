@@ -1,13 +1,28 @@
+
 This directory contains content produced by contributors of the project. This content can be produce by any mean, autonomous or not, but it must respect the format established for the particular content. The project Libanatomy shares this content under the 'Creative Commons Attribution-NoDerivatives 4.0 International license'.
 
-ta_map.json
------------
-This file contains the mapping between TA1 and TA2 terms. It is a JSON Array of JSON objects. Each objects contains two key values, "ta1" and "ta2", containing the "ta1 id" and the "ta2 number" respectively.
-This file can be produced by the **tamixer** tool.
+------------------
+## Term Files
 
 ana_terms_definitions.csv
 ------------------
 This file contains the source definitions for the terms database for the code range between 400008 and 499994. This code range is known as the LibAnatomy's Term Range. The order of the rows will never change. The row content will be expanded but never reduced. 
+Terms must be added to this list in hierarchy fashion, meaning whenever is possible a term must have a parent term. Each term has to have a type:
+
+**Term (T)**: The term symbolizes a thing
+
+**Group (G)**: The term symbolizes a group. This group must be the most intrinsic aggregation compatible with the term. For example the *Biceps Brachii* term could be a group where *Biceps Brachii Long* and *Biceps Brachii Short* could be children. Groups can have children of type Group and any *other type* but this *other type* should not be changed deep into the hierarchy.
+
+**Movement (M)**: The term symbolizes a movement
+
+**Selection (S)**: The term symbolizes a selection, this is a group which can have mixed types of any kind as children.
+
+(types will be extended)
+
+If a term has more than one meaning it must appear duplicated but belonging to different Groups. For example the term *Abductor Digiti Minimi* should belong to two groups like *Muscles of the Hand* and *Muscles of the Foot*.
+
+A single meaning must not represented by two terms, synonyms must be specified in the column for that.
+
 
 ```
 CSV columns description:
@@ -67,5 +82,14 @@ Status indicates the *translation status* of the term, it is a one character ind
 	O: *term* became obsolete, the translator should remove this record
 ```
 
+We encourage contributors to use AnaTranslator to manipulate these files.
 
+--------------------
+## Other files
 
+ta_map.json
+-----------
+This file contains the mapping between TA1 and TA2 terms. It is a JSON Array of JSON objects. Each objects contains two key values, "ta1" and "ta2", containing the "ta1 id" and the "ta2 number" respectively.
+This file can be produced by the **tamixer** tool.
+
+We encourage contributors on working on this working in this mapping asap.
