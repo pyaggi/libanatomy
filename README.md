@@ -33,7 +33,10 @@ TaMixer
 TA mixer is an application oriented on matching the terms from the TA1 and TA2 sets, it produces an output to be included in the contents for generating the libanatomy's terms file.
 
 
-
+Tools Release
+-------------
+The releases of the tools present in the current repository contain all the relevant files from the project updated to the day of the release. This allows contributors that are not comfortable with the workflow of a *git* repository to still be able to produce content. Sharing of the resulting files can then be done contacting the team by other means (ie:email) and a member of the team will merge the new content with the *master branch* of the project.
+The tools installers will be updated as soon as possible after contributions.
 
 
 
