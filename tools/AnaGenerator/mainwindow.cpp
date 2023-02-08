@@ -15,6 +15,7 @@
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
 {
+    setWindowIcon(QIcon(":/icons/logo.svg"));
     loadSettings();
     if (m_projDir.isEmpty() || !loadProject(m_projDir).isEmpty())
     {

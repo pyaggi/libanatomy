@@ -13,7 +13,7 @@
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
 {
-
+    setWindowIcon(QIcon(":/icons/logo.svg"));
     auto menu=menuBar()->addMenu(tr("&File"));
     auto action=menu->addAction(tr("&Open LibAnatomy Translation file"),this,&MainWindow::openAna);
     action->setIcon(style()->standardIcon(QStyle::StandardPixmap::SP_DialogOpenButton));

@@ -17,6 +17,8 @@ set (HEADERS anqaboutdialog.h  anqcsv.h  anqjson.h  anqta1tree.h  anqta2tree.h  
 set (SOURCES anqaboutdialog.cpp anqcsv.cpp  anqjson.cpp  anqta1tree.cpp  anqta2tree.cpp  anqtermstree.cpp  anqtools.cpp
      anqinfolabel.cpp anqfilewidget.cpp  anqtreewidget.cpp)
 
+qt5_add_resources(SOURCES anqresources.qrc)
+
 add_library(anatomyqt SHARED ${HEADERS} ${SOURCES})
 
 

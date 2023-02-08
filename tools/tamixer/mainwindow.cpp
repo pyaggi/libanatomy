@@ -11,6 +11,7 @@
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
 {
+    setWindowIcon(QIcon(":/icons/logo.svg"));
     setWindowTitle("TA Mixer");
     auto w=new QWidget;
     auto l=new QVBoxLayout(w);

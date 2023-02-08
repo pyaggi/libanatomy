@@ -16,6 +16,7 @@
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
 {
+    setWindowIcon(QIcon(":/icons/logo.svg"));
     auto file=menuBar()->addMenu(tr("Lib&Anatomy"));
     file->addAction(tr("Terms Viewer"),this,&MainWindow::termsViewer);
     file->addAction(tr("TA1 Viewer"),this,&MainWindow::ta1Viewer);
