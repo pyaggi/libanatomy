@@ -211,7 +211,32 @@ void ViewerTree::setLang(int lang)
     collect(all);
     for (auto &i:all)
     {
-        i->setText(1,i->data(1,Qt::UserRole+lang).toString());
-        i->setText(2,i->data(2,Qt::UserRole+lang).toString());
+        auto s=i->data(1,Qt::UserRole+lang).toString();
+        auto font=i->font(1);
+        if (!s.isEmpty())
+        {
+            font.setItalic(false);
+            i->setText(1,s);
+            i->setText(2,i->data(2,Qt::UserRole+lang).toString());
+        }
+        else
+        {
+            font.setItalic(true);
+            auto role=Qt::UserRole+1;
+            s=i->data(1,role).toString();
+            if (s.isEmpty())
+            {
+                role--;
+                s=i->data(1,role).toString();
+            }
+            s.prepend("* ");
+            i->setText(1,s);
+            s=i->data(2,role).toString();
+            if (!s.isEmpty())
+                s.prepend("* ");
+            i->setText(2,s);
+        }
+        i->setFont(1,font);
+        i->setFont(2,font);
     }
 }
