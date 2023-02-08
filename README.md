@@ -1,7 +1,7 @@
 # libanatomy
 
 This project aims to provide medical resources that meet the needs for software development and contents creators alike.
-The idea is to use as simple as possible file formats to produce content and tools will produce usable output for different scenarios. For example, translation files are .CSV files that can be easily edited, merged and shared, but the post processing tool will output the data in different more oriented formats.
+The idea is to use as simple as possible file formats to produce content and then dedicated tools will produce usable output for different scenarios. For example, translation files are .CSV files that can be easily edited, merged and shared, but the post processing tool will output the data in different more oriented formats.
 
 Contribute
 ----------
