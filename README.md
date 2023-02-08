@@ -3,6 +3,14 @@
 This project aims to provide medical resources that meet the needs for software development and contents creators alike.
 The idea is to use as simple as possible file formats to produce content and tools will produce usable output for different scenarios. For example, translation files are .CSV files that can be easily edited, merged and shared, but the post processing tool will output the data in different more oriented formats.
 
+Contribute
+----------
+These are the task currently on going:
+1. Finalize TA1-TA2 mapping (using TaMixer);
+2. Translate Terms to different languages (until TA1-TA2 mapping is done it is safe to translate codes in the range 100000-1999999)
+3. Create selection lists of terms
+
+
 Directory Structure
 -------------------
 
