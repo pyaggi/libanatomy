@@ -3,7 +3,7 @@ This directory contains content produced by contributors of the project. This co
 ta_map.json
 -----------
 This file contains the mapping between TA1 and TA2 terms. It is a JSON Array of JSON objects. Each objects contains two key values, "ta1" and "ta2", containing the "ta1 id" and the "ta2 number" respectively.
-This file can be produced by the **tamixer* tool.
+This file can be produced by the **tamixer** tool.
 
 ana_terms_definitions.csv
 ------------------

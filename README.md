@@ -18,8 +18,7 @@ Directory Structure
 
 AnaTranslator
 -------------
-AnaTranslator is an application for easy translation of the files included in the content directory. Any contributor willing to provide translations to the project 
-is encouraged to use it.
+AnaTranslator is an application for easy translation of the files included in the content directory. Any contributor willing to provide translations to the project is encouraged to use it. 
 
 AnaViewer
 ---------
