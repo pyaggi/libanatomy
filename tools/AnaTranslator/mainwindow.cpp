@@ -140,7 +140,7 @@ void MainWindow::saveAs()
     auto f=QFileDialog::getSaveFileName(this,windowTitle(),ws->file()->file(),ws->file()->fileFilter());
     if (f.isEmpty())
         return;
-    auto s=ws->file()->save(ws->file()->file());
+    auto s=ws->file()->save(f);
     if  (!s.isEmpty())
         QMessageBox::critical(this,windowTitle(),s);
     else

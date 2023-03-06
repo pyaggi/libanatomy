@@ -36,8 +36,11 @@ TrAuto::TrAuto(QWidget *parent)
 
     m_in=new QTextEdit;
     m_in->setToolTip(tr("Sources"));
+    m_in->setReadOnly(true);
+    m_in->setWordWrapMode(QTextOption::NoWrap);
     m_out=new QTextEdit;
     m_out->setToolTip(tr("Translations"));
+    m_out->setWordWrapMode(QTextOption::NoWrap);
     sp->addWidget(m_in);
     sp->addWidget(m_out);
 
@@ -208,7 +211,10 @@ void TrAuto::selectPage(int p)
     auto range=pageRange(p);
     m_in->clear();
     for (int c=range.first;c<range.second;c++)
-        m_in->append(m_list[c]);
+        if (m_list[c].isEmpty())
+            m_in->append(" ");
+        else
+            m_in->append(m_list[c]);
     loadPage();
 }
 std::pair<int,int> TrAuto::pageRange(int p) const
